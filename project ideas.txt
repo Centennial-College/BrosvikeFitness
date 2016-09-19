@@ -1,0 +1,114 @@
+COMP246 Project
+
+Bryan Maravilla
+Ostap Hamarnyk
+Kevin Ma
+Vinood Persad
+------------------------------------------------------------------------------------------
+
+1. Organ Trafficking Information System
+-problem: currently shortage of organs, hard to find suitable organs for patients
+-keeps track of organs that can be ordered and delivered to local institution (ie. hospital)
+-modules:
+	-filtering organs
+	-...
+
+
+2. Parking System Cloud App
+
+3. Gym memberships management system
+-ammendities / list of privalleges tied to current level of membership
+-enroll in group lessons
+-book Personal Trainer appointments
+-renew via online payments
+-Types?
+-family, vip, regular (individual)
+-upgrade to higher level of membership
+
+-MODULES:
+-
+
+4. App - Identifies locations around target area where you can smoke
+
+5. Lectures are automatically recorded and uploaded to cloud servers for students
+-to db
+-
+
+6. Rework of E.Centennial
+
+7. Car Rentals System
+-# remainig
+-time
+-from which location
+-
+
+8. Medical Conference Tracking System
+-diff memebership types, doctors, nurses, etc.
+-need to enroll for conferences
+-db keeps track of conference information
+-equipment required
+-location
+-duration of conference
+-
+
+9. Charity ...Managment System?
+- funnels money into your system
+- redistribute to charities around the world
+
+10. Cardiology System
+-cardiac diagnostics
+-
+
+11. Organic Chemistry Info Web App
+-can view different chemical structures online
+-database that organizes diff structures
+-info about each element when selected
+-sort, organize elements by properties: melting points, elements composing each, etc.
+
+12. Wearable Fitness Technology Community Information System
+
+New and upcoming technology!
+new startup company who wanted to get in on this, get some big money
+developed a line of products (watches, 
+
+-rankings based on activity stats
+-new technology that is getting more popular, great place for advancement
+-sync stats to the cloud
+-Tables (for class diagram...?)
+	-at least 10
+	1. General, includes everyone
+	2. Running
+	3. Other
+	4. Swimming
+	5. Basketball
+	5. Soccer
+	6. Daily Intake Nutrition
+	7. 
+-Actions you can do in the system (Subsystems)
+	1. registration (on the system, online)
+	2. sharing stats with commuity
+		a. Circle of Friends
+		b. Public
+	3. syncing data (Syncing to cloud-db)
+	4. Viewing Statistics
+		a. Personal
+		b. Friends
+	5. Adding Friends
+	6. Removing Friends
+	7. Recording Activity (device, local-db)
+	8. 
+
+-find people who partake in same activity as you
+	-get happy
+	-profit
+-
+
+
+Clinic
+Subsystems
+Registration subsystem
+Appointment subsystem
+Treatment subsystem
+Lab Test Subsystem
+Prescription
+Reports
