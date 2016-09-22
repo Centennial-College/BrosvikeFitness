@@ -1,0 +1,32 @@
+Brosvike Fitness
+==================================================================
+
+PART A
+------------------------------------------------------------------
+
+September 14, 2016
+---
+BOVK
+-brainstormed ideas for the group project
+-initiated work on system vision document
+
+September 17, 2016
+---
+K
+-finished System vision document draft
+
+September 21, 2016
+---
+BOVK
+-worked alongside Professor Mohammed Khan to revise System Vision Document
+-commited edits to sys capabilities
+-commited edits to business benefits
+-commited edits to subsystems
+-initiated work on textual workflows
+	-completed #1, #2, started #3
+
+September 22, 2016
+---
+K
+-completed textual workflows
+	-#3, 
