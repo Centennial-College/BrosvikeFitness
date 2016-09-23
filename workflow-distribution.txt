@@ -23,10 +23,10 @@ BOVK
 -commited edits to business benefits
 -commited edits to subsystems
 -initiated work on textual workflows
-	-completed #1, #2, started #3
+	-completed #1, #2, #3
 
-September 22, 2016
+September 23, 2016
 ---
-K
--completed textual workflows
-	-#3, 
+OK
+-
+
